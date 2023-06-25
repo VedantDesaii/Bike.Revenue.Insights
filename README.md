@@ -1,4 +1,5 @@
 # Bike.Revenue.Insights
+Link: https://public.tableau.com/views/SalesDashboardforabikecompany/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link 
 Description:
 The Bike Revenue Analytics Suite is a robust and technically advanced project that utilizes SQL data extraction, preprocessing, and visualization techniques to deliver comprehensive insights into the revenue performance of a bike company. Powered by Microsoft SQL Server, this project leverages cutting-edge technologies and methodologies to enable data-driven decision-making and strategic planning. as well as a applying the data to a data visualisation software
 Key Technical Points:
